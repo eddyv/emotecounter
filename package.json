@@ -1,0 +1,27 @@
+{
+  "name": "discordemotecounter",
+  "version": "1.0.0",
+  "description": "Keeps track of the number of times a user has used an emote",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyv/emotecounter.git"
+  },
+  "keywords": [
+    "discordbot"
+  ],
+  "author": "Edward Vaisman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddyv/emotecounter/issues"
+  },
+  "homepage": "https://github.com/eddyv/emotecounter#readme"
+}
